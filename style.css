@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("Images/Fond d'écran.png");
+	background-attachment: fixed;
+	background-size: cover;
+
+    }
+h1
+{
+	text-align: center;
+	background-color: red;
+  	color: white;
+}
+h2
+{
+	color: red
+}
+h4
+{
+	text-align: center;
+p
+{
+	font-family: verdana;
+	color: black;
+}
+body
+{
+    background-image: url("Images/Fond d'écran.jpg");
+	background-attachment: fixed;
+    }
